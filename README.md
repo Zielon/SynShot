@@ -49,7 +49,7 @@ Video Order (from left to right):
 
 | **Source/Target** | **Ours** | [**INSTA**](https://github.com/Zielon/INSTA) | [**FlashAvatar**](https://github.com/USTC3DV/FlashAvatar-code) | [**Splatting Avatar**](https://github.com/initialneil/SplattingAvatar) |
 
-🟢 **Explore Results:**  
+🟢 **Explore Results:**  (all results were generated using 3 input frames for inversion for our method) \
 📥 **[Monocular Test Sequences](https://drive.google.com/drive/folders/19nBUhiS7thuW40-v1w5wzG_K88oebamX?usp=sharing)**  
 📥 **[Monocular Transfer Results](https://drive.google.com/drive/folders/1mFwAJV730CpFA0fikhCXvFyy6p5Wkgga?usp=sharing)**  
 
