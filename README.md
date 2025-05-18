@@ -73,9 +73,7 @@ If you use this project in your research please cite SynShot:
 ```bibtex
 @inproceedings{zielonka2025synshot,
     title={Synthetic Prior for Few-Shot Drivable Head Avatar Inversion},
-    author={Wojciech Zielonka and Stephan J. Garbin and Alexandros Lattas 
-                    and George Kopanas and Paulo Gotardo and Thabo Beeler 
-                    and Justus Thies and Timo Bolkart},
+    author={Wojciech Zielonka and Stephan J. Garbin and Alexandros Lattas and George Kopanas and Paulo Gotardo and Thabo Beeler and Justus Thies and Timo Bolkart},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month = {June},
     year={2025},
